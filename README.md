@@ -1,3 +1,3 @@
-# HG2_DESAPROPRIA-O
+# HG2_DESAPROPRIACAO
 Desenvolver atividade da Disciplina Desapropriação 
 teste.
