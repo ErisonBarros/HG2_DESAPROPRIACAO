@@ -1,3 +1,20 @@
+---
+marp: true
+---
+
 # HG2_DESAPROPRIACAO
-Desenvolver atividade da Disciplina Desapropriação 
-teste.
+testenado o desenvolvimento do mesmo.
+xvxvxcvxvx
+xcvxvxvxv
+xcvxvxvxv
+xcvxvxvxvxv
+xcvxvxvxvx
+xcvxvxvxvxvxxcv
+
+xvxcvxvxv
+xcv
+
+xcvxvxvcxv
+x
+cvxcvxcv
+xcvxcv
